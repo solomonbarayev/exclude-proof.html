@@ -15,5 +15,3 @@ clone the repo to your local machine.
 #### step 2:
 
 go to chrome://extensions/ and enable developer mode. Then click on "Load unpacked" and select the folder where you cloned the repository.
-
-###To use the extension:
