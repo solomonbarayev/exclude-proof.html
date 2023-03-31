@@ -1,0 +1,16 @@
+html,
+body {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+#copy {
+  min-width: 326px;
+  width: 100%;
+  background-color: navy;
+  color: white;
+  cursor: pointer;
+  border: none;
+  padding: 15px;
+  border-radius: 100px;
+  font-size: 18px;
+}
