@@ -15,3 +15,9 @@ clone the repo to your local machine.
 #### step 2:
 
 go to chrome://extensions/ and enable developer mode. Then click on "Load unpacked" and select the folder where you cloned the repository.
+
+##### future updates:
+
+open file explorer from the extension itself to the path of the html file without the proof.html.
+explore:
+window.open(path); //since it already include the full path
