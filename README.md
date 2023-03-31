@@ -6,7 +6,7 @@ Intension:
 When working with Quadient Inspire Designer, we need to copy the URL of the page and paste it in the browser. But the URL contains the proof.html which gets in the way of pasting the path back into file explorer to rename the html file for the purpose of storing the html page (renamed) into server.
 So this extension will help you to copy the URL without the proof.html.
 
-###To add the extension to your chrome:
+### To add the extension to your chrome:
 
 #### step 1:
 
